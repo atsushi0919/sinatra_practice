@@ -1,0 +1,27 @@
+body {
+  width: 50%;
+  margin: auto;
+}
+
+form {
+  background-color: #b2e8f5;
+  padding: 1-px;
+  text-align: center;
+  border: solid 4px #28afaf;
+}
+
+main {
+  height: 500px;
+  overflow: scroll;
+}
+
+input {
+  width: 300px;
+  height: 30px;
+}
+
+p {
+  border: solid1px #e2e2;
+  padding: 10px;
+  margin: 0px;
+}
